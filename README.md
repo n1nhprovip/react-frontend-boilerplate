@@ -15,3 +15,7 @@ npm run dev
 
 ## Contributing
 Contributions are welcome! Please open an issue before creating a pull request.
+## Contributing
+Contributions are welcome! Please open an issue before creating a pull request.
+
+
